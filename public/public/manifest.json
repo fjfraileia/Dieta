@@ -1,0 +1,10 @@
+{
+  "short_name": "Dieta Muscular",
+  "name": "Calculadora de Dieta Muscular",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3d2d8f",
+  "background_color": "#ede9e0",
+  "orientation": "portrait",
+  "icons": []
+}
